@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
+```
+
+    
