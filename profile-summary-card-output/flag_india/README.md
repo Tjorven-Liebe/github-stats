@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/flag_india/4-productive-time.svg)
-```
-
-    
